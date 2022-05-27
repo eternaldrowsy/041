@@ -1,3 +1,0 @@
-/home/naran/Загрузки/Telegram Desktop/lab_03_timp/solver_lib/CMakeFiles/rebuild_cache.dir
-/home/naran/Загрузки/Telegram Desktop/lab_03_timp/solver_lib/CMakeFiles/edit_cache.dir
-/home/naran/Загрузки/Telegram Desktop/lab_03_timp/solver_lib/CMakeFiles/solver_lib.dir
